@@ -1,1 +1,3 @@
 # ML-Algos
+
+This project aims to implement various machine learning algorithms from scratch...
